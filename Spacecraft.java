@@ -1,3 +1,7 @@
+/* To ensure all tests are red (i.e., failing), I don't add the methods rotate and the additional conditions for the move method in the Spacecraft class.
+When you run the SpacecraftTest now, all tests should fail, showing up as red. This way, you're starting with a red bar, and the next step in the 
+TDD cycle would be to implement the functionality to make these tests pass (green bar), followed by possible refactorings.*/
+
 import static org.junit.Assert.assertEquals;
 import org.junit.Test;
 
