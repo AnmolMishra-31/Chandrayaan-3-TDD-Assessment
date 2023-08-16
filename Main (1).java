@@ -1,3 +1,4 @@
+/* Re-factor code considering several test cases*/
 public class Main {
     private int x;
     private int y;
